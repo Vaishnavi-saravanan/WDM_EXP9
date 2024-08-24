@@ -26,5 +26,8 @@ for this purpose.
 
 
 ### Output:
+![Screenshot 2024-08-24 144112](https://github.com/user-attachments/assets/4dde23c4-fbbe-4102-84ae-bfc746f55f47)
+![Screenshot 2024-08-24 144058](https://github.com/user-attachments/assets/910433bb-985e-405d-9bf9-3dc3fa7aca72)
+![Screenshot 2024-08-24 144128](https://github.com/user-attachments/assets/78899629-20e4-423e-8267-9c1535bc2701)
 
 ### Result:
